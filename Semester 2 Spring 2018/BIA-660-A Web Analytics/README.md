@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# BIA-660-A Web Analytics
+Under Professor Ted Lappas
