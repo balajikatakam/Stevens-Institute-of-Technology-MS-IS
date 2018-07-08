@@ -1,2 +1,1 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# This R code is for K Nearest Neighbour in R
