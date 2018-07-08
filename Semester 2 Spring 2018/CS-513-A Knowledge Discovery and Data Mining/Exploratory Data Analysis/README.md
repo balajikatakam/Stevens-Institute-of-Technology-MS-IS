@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# Exploratory Data Analysis Performed over a DataSet in R
+
