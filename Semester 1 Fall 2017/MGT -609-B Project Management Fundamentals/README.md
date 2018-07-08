@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# MGT 609 Project Management Fundamentals
+Under professor Alan Maltz
