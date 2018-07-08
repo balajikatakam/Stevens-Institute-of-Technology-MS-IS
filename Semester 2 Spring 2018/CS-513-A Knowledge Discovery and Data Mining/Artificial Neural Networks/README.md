@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# Artificial Neural Networks applied in R
+
