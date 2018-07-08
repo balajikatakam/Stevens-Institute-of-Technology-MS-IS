@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# MIS -699-C Managing Emerging Information Technology
+Under Professor Aron Lindberg
