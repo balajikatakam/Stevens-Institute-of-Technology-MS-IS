@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# Mid Term Examination in CS 513 Data Mining
+
