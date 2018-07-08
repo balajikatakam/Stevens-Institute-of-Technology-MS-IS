@@ -1,2 +1,2 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# CS-513-A Knowledge Discovery and Data Mining
+Under Professor Khasha Dehnad
