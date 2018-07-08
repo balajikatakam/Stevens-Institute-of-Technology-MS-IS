@@ -1,2 +1,1 @@
-# Stevens-Institute-of-Technology-MS-IS
-Stevens Institute of Technology
+# CART 5.0 in R
